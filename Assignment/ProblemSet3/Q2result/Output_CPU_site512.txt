@@ -1,0 +1,2 @@
+LatticeSize CPUerror CPUiteration CPUonly CPUflop
+512 0.000000 426331 465585.937500 1.667191

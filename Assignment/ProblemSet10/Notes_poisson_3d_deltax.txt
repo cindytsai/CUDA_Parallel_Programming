@@ -1,0 +1,11 @@
+Failure on poisson_3d_deltax.cu:
+
+About your question, I am not sure I understand it exactly. 
+Do you mean to change the lattice spacing ?  
+Note that in numerical analysis, any quantity is expressed 
+in term of a dimensionless number. For the momentum, 
+k*a is always restricted to a interval of 2 \pi, 
+i.e.,  [0, 2\pi), or [-\pi, \pi), etc. You can make k*a finer
+by going to a larger lattice size (i.e., with more sites in each 
+direction). In other words, you cannot change the lattice spacing 
+by hand in your computation. 
