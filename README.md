@@ -1,7 +1,22 @@
 # CUDA_Parallel_Programming
 Course _CUDA Parallel Programming_ from NTU.
 
-## Content
+## Quick Search and Tags
+
+* Assignments
+
+|     Folder     |                              Tags                              |                      CUDA                     |
+|:--------------:|:--------------------------------------------------------------:|:---------------------------------------------:|
+|  Problem Set 1 |                Vector Addition, Matrix Addition                |                                               |
+|  Problem Set 2 |           Find Maximum, Dot Product, Vector Addition           | Shared Memory, Parallel Reduction, Multi-GPUs |
+|  Problem Set 3 |                        Laplace Equation                        |                 Texture Memory                |
+|  Problem Set 4 |                           Dot Product                          | Shared Memory, Parallel Reduction, Multi-GPUs |
+|  Problem Set 5 |                         Heat Diffusion                         |                   Multi-GPUs                  |
+| Problem Set 6  |                    Random Number, Histogram                    |                 Shared Memory                 |
+| Problem Set 7  | Monte Carlo Integration, Simple Sampling, Metropolis Algorithm |                     cuRAND                    |
+| Problem Set 8  |                        Multigrids Method                       |                                               |
+| Problem Set 9  |                           Ising Model                          |                   Multi-GPUs                  |
+| Problem Set 10 |                        Poisson Equation                        |                     cuFFT                     |
 
 ## Assignments
 
