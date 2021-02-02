@@ -37,8 +37,6 @@ int main(){
 
 	random<<<1,1>>>(time(NULL), gpu_x, N);
 
-
-
 	cudaFree(gpu_x);
 
 	cudaDeviceReset();
