@@ -19,6 +19,7 @@ Course _CUDA Parallel Programming_ from NTU.
 | Problem Set 10 |                        Poisson Equation                        |                     cuFFT                     |
 
 ## Assignments
+Problem sets are named as `hwX_2020.pdf`, my reports are named as `r08244002_psX.pdf`.
 
 ### Problem Set 1
 * Vector Addition
